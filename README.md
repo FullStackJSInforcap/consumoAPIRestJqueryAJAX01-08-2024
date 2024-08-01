@@ -1,1 +1,1 @@
-# Consumo de API con JQuery y AJAX
+# Consumo de API Rest con JQuery y AJAX
